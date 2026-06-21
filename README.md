@@ -8,8 +8,6 @@ A native macOS geospatial intelligence platform built with SwiftUI and MapKit. T
 
 This repository is a preserved fork of a now-unavailable project. All source code was written by the original author (with AI-assisted co-authoring on some commits). No code changes have been made from the original. If you are the original author and would like this fork taken down or a license specified, please open an issue.
 
-**No code changes have been made from the original.** If you are portwally and would like this fork taken down, please open an issue.
-
 ---
 
 ## Features
